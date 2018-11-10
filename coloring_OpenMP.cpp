@@ -3,7 +3,6 @@
 #include <stdlib.h>
 #include <omp.h>
 #include <sys/time.h>
-#include <stdlib.h>
 #include <bits/stdc++.h>
 using namespace std; 
   
@@ -34,7 +33,7 @@ void Graph::greedyColoring()
     // Array that conatins the color values for the vertices 0 -> V
     int color[V];
     gettimeofday(&TimeValue_Start, &TimeZone_Start);
-    #pragma omp parallel num_threads(8)
+    #pragma omp parallel num_threads(16)
     { 
     // Assign the first color to first vertex 
     color[0] = 0; 
