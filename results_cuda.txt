@@ -1,0 +1,205 @@
+Max number of colours = 68
+randomColouring
+Color of0: 28
+Color of1: 9
+Color of2: 32
+Color of3: 40
+Color of4: 31
+Color of5: 6
+Color of6: 14
+Color of7: 30
+Color of8: 20
+Color of9: 4
+Color of10: 20
+Color of11: 52
+Color of12: 25
+Color of13: 15
+Color of14: 28
+Color of15: 52
+Color of16: 59
+Color of17: 65
+Color of18: 65
+Color of19: 57
+Color of20: 13
+Color of21: 52
+Color of22: 26
+Color of23: 2
+Color of24: 25
+Color of25: 18
+Color of26: 59
+Color of27: 63
+Color of28: 27
+Color of29: 10
+Color of30: 40
+Color of31: 11
+Color of32: 49
+Color of33: 59
+Color of34: 54
+Color of35: 65
+Color of36: 42
+Color of37: 64
+Color of38: 9
+Color of39: 44
+Color of40: 7
+Color of41: 35
+Color of42: 34
+Color of43: 2
+Color of44: 7
+Color of45: 13
+Color of46: 43
+Color of47: 40
+Color of48: 38
+Color of49: 49
+Color of50: 65
+Color of51: 21
+Color of52: 12
+Color of53: 54
+Color of54: 43
+Color of55: 9
+Color of56: 34
+Color of57: 37
+Color of58: 18
+Color of59: 45
+Color of60: 36
+Color of61: 14
+Color of62: 65
+Color of63: 53
+Color of64: 54
+Color of65: 24
+Color of66: 36
+Color of67: 46
+Color of68: 21
+Color of69: 19
+Color of70: 54
+Color of71: 45
+Color of72: 12
+Color of73: 59
+Color of74: 17
+Color of75: 68
+Color of76: 41
+Color of77: 58
+Color of78: 23
+Color of79: 9
+Color of80: 34
+Color of81: 67
+Color of82: 32
+Color of83: 15
+Color of84: 57
+Color of85: 45
+Color of86: 33
+Color of87: 47
+Color of88: 47
+Color of89: 34
+Color of90: 54
+Color of91: 57
+Color of92: 31
+Color of93: 6
+Color of94: 33
+Color of95: 5
+Color of96: 11
+Color of97: 52
+Color of98: 31
+Color of99: 55
+
+Colour of i from0 -1:28
+Colour of i from1 -1:9
+Colour of i from2 32:1
+Colour of i from3 -1:40
+Colour of i from4 31:1
+Colour of i from5 -1:6
+Colour of i from6 14:1
+Colour of i from7 -1:30
+Colour of i from8 20:1
+Colour of i from9 -1:4
+Colour of i from10 -1:20
+Colour of i from11 52:1
+Colour of i from12 -1:25
+Colour of i from13 -1:15
+Colour of i from14 -1:28
+Colour of i from15 52:1
+Colour of i from16 59:1
+Colour of i from17 65:1
+Colour of i from18 65:1
+Colour of i from19 57:1
+Colour of i from20 -1:13
+Colour of i from21 52:1
+Colour of i from22 -1:26
+Colour of i from23 -1:2
+Colour of i from24 -1:25
+Colour of i from25 18:1
+Colour of i from26 59:1
+Colour of i from27 -1:63
+Colour of i from28 -1:27
+Colour of i from29 -1:10
+Colour of i from30 -1:40
+Colour of i from31 11:1
+Colour of i from32 -1:49
+Colour of i from33 59:1
+Colour of i from34 54:1
+Colour of i from35 -1:65
+Colour of i from36 -1:42
+Colour of i from37 -1:64
+Colour of i from38 9:1
+Colour of i from39 -1:44
+Colour of i from40 7:1
+Colour of i from41 -1:35
+Colour of i from42 34:1
+Colour of i from43 -1:2
+Colour of i from44 -1:7
+Colour of i from45 -1:13
+Colour of i from46 43:1
+Colour of i from47 -1:40
+Colour of i from48 -1:38
+Colour of i from49 -1:49
+Colour of i from50 65:1
+Colour of i from51 21:1
+Colour of i from52 -1:12
+Colour of i from53 -1:54
+Colour of i from54 -1:43
+Colour of i from55 9:1
+Colour of i from56 34:1
+Colour of i from57 37:1
+Colour of i from58 -1:18
+Colour of i from59 45:1
+Colour of i from60 -1:36
+Colour of i from61 -1:14
+Colour of i from62 -1:65
+Colour of i from63 -1:53
+Colour of i from64 54:1
+Colour of i from65 -1:24
+Colour of i from66 -1:36
+Colour of i from67 -1:46
+Colour of i from68 -1:21
+Colour of i from69 -1:19
+Colour of i from70 54:1
+Colour of i from71 -1:45
+Colour of i from72 -1:12
+Colour of i from73 -1:59
+Colour of i from74 -1:17
+Colour of i from75 -1:68
+Colour of i from76 -1:41
+Colour of i from77 -1:58
+Colour of i from78 -1:23
+Colour of i from79 -1:9
+Colour of i from80 34:1
+Colour of i from81 -1:67
+Colour of i from82 -1:32
+Colour of i from83 -1:15
+Colour of i from84 57:1
+Colour of i from85 -1:45
+Colour of i from86 33:1
+Colour of i from87 47:1
+Colour of i from88 -1:47
+Colour of i from89 -1:34
+Colour of i from90 -1:54
+Colour of i from91 -1:57
+Colour of i from92 -1:31
+Colour of i from93 -1:6
+Colour of i from94 -1:33
+Colour of i from95 -1:5
+Colour of i from96 -1:11
+Colour of i from97 -1:52
+Colour of i from98 -1:31
+Colour of i from99 -1:55
+Count: 29    32
+time taken is0.007814
