@@ -27,17 +27,14 @@ public:
     // Prints greedy coloring of the vertices 
     void greedyColoring(); 
 }; 
-  
 
-// Assigns colors (starting from 0) to all vertices and prints 
-// the assignment of colors 
 void Graph::greedyColoring() 
 {   
 
     // Array that conatins the color values for the vertices 0 -> V
     int color[V];
     gettimeofday(&TimeValue_Start, &TimeZone_Start);
-    #pragma omp parallel num_threads(16)
+    #pragma omp parallel num_threads(8)
     { 
     // Assign the first color to first vertex 
     color[0] = 0; 
@@ -92,8 +89,8 @@ void Graph::greedyColoring()
 // A function to generate random graph.
 void GenerateRandGraphs(int NOE, int NOV)
 {
-    NOE=2506;
-    NOV=100;
+    //NOE=2506;
+    //NOV=100;
     int i, j, edge[NOE][2], count;
     i = 0;
     // Build a connection between two random vertex.
@@ -191,16 +188,9 @@ void GenerateRandGraphs(int NOE, int NOV)
 int main() 
 { 
     
-    int n, i, e, v;
-    cout<<"Random graph generation: ";
-    srand(time(NULL));
-    // Randomly assign vertex and edges of the graph.
-    v = 2+rand()%10;
-    //cout<<"\nThe graph has "<<v<<" vertexes.";
-    e = rand()%((v*(v-1))/2);
-    //cout<<"\nThe graph has "<<e<<" edges.";
-    cout << endl;
-    // A function to generate a random undirected graph with e edges and v vertexes.
+    int e, v;
+    e=2056;
+    v=100;
     GenerateRandGraphs(e, v);
     cout << endl;
   
